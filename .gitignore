@@ -1,0 +1,6 @@
+.vs/
+.vscode/
+Backup/
+WaveformApp/bin/
+WaveformApp/obj/
+*.user
